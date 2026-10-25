@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://its-vaibhav-2005.github.io/TaskVerse/sitemap.xml
+Sitemap: https://its-vaibhav-2005.github.io/sitemap.xml
